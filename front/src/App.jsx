@@ -3,7 +3,7 @@ import axios from 'axios';
 import { AnimatePresence, motion } from 'framer-motion';
 import TodoItem from './TodoItem.jsx';
 
-const API_BASE = 'http://localhost:4000';
+const API_BASE = 'https://checklist2-back.onrender.com';
 
 function App() {
   const [todos, setTodos] = useState([]);
