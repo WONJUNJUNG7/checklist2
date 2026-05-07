@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Vite
+dist/
+
+# Server
+checklist-server/node_modules/
+checklist-server/db.json
+
+# Client
+checklist-client/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
